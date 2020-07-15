@@ -1,3 +1,7 @@
-nav.navbar.navbar-default {
-  margin-bottom: 0;
+.navbar-brand {
+  margin: 6%;
+  font-family: 'STSong';
+  color: #000000;
+  font-size: 60%;
+
 }
